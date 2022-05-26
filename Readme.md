@@ -5,3 +5,8 @@ Expand wit unit test:
 `
 cargo expand --lib --tests
 `
+
+Generate doc
+`
+cargo doc --open
+`
